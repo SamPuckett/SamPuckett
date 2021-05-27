@@ -1,6 +1,7 @@
 # About me
 Hello! I'm Sam, a Software Engineer based in Modesto, California who enjoys designing things on the web. I am passionate about web development and creating products that users can easily use without having to think.
-I am currently not seeking any opportunities. 
+
+
 <img src="https://res.cloudinary.com/dnrbgmcm4/image/upload/v1611830743/Personal/Github%20ReadMe/1582911065781_epcx8n.jpg" alt="Me at Novo" style='height: auto; width: 25%;'>
 
 
